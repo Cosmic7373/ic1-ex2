@@ -7,3 +7,9 @@ git add FileName
 Git command to commit things:
 
 git commit -m 'insert comments here'
+
+
+For syncing to the cloud:
+
+git remote add origin https://github.com/Cosmic7373/ic1-ex2.git
+git push -u origin master
